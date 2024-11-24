@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oneview.me/tinyNote/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/thinking-universe-human-self/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/self-existence-and-thinking-i-think-therefore-i-am/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/noteman/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/model-learning-from-successful-people/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oneview.me/yin-yang/</loc>
     
     <lastmod>2024-11-24</lastmod>
@@ -39,15 +84,6 @@
   
   <url>
     <loc>https://oneview.me/oneview-beginning/</loc>
-    
-    <lastmod>2024-11-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/model-learning-from-successful-people/</loc>
     
     <lastmod>2024-11-24</lastmod>
     
@@ -461,24 +497,6 @@
   </url>
   
   <url>
-    <loc>https://oneview.me/self-existence-and-thinking-i-think-therefore-i-am/</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/thinking-universe-human-self/</loc>
-    
-    <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://oneview.me/tags/index.html</loc>
     
     <lastmod>2024-08-28</lastmod>
@@ -491,24 +509,6 @@
     <loc>https://oneview.me/categories/index.html</loc>
     
     <lastmod>2024-08-28</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tinyNote/</loc>
-    
-    <lastmod>2024-08-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/noteman/</loc>
-    
-    <lastmod>2024-08-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
