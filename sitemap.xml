@@ -2,6 +2,429 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://oneview.me/probability/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/cause-and-effect/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dynamics/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/simplicity/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/purity/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/knowledge/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/stay-hungry-stay-foolish/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/philosophy/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/what/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/science/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/starlit-sky/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/from-a-to-b/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/luck/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dialogue/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/abstraction/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/logic-prelude/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/three-views/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/ignorance/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/philosophy-beginning/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/viewing-people-as-people/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/diversity/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/necessity-contingency/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/goal/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/era-continuity/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dao-knowledge/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dao-realm/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dao/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/yin-yang/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/seeking-truth-from-facts/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/rebirth/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/formal-logic/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/label-qualification/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/thinking/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/role/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/logic-concept/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/pain-sensation/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/impermanence/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/realm-landscape/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/the-essence-of-education/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/history-ancestors/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/dimensions-point-line-plane-motion/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/symbiosis/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/fact-views-emotion/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/implicit-assumptions-dark-matter/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/hint/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/understand/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/oneview-beginning/</loc>
+    
+    <lastmod>2024-11-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://oneview.me/model-learning-from-successful-people/</loc>
     
     <lastmod>2024-09-18</lastmod>
@@ -94,7 +517,7 @@
 
   <url>
     <loc>https://oneview.me/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -102,245 +525,245 @@
   
   <url>
     <loc>https://oneview.me/tags/%E8%AE%A4%E7%9F%A5%E6%A8%A1%E5%9E%8B/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E6%80%9D%E7%BB%B4%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E8%A1%8C%E5%8A%A8/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E7%BB%93%E6%9E%9C/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E8%AE%A4%E7%9F%A5/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E5%87%86%E7%A1%AE%E6%80%A7/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E6%8A%96%E9%9F%B3/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E4%B8%80%E8%88%AC%E6%80%A7/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%9B%B4%E6%92%AD/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%AE%80%E6%B4%81%E6%80%A7/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E6%A1%86%E6%9E%B6/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%AD%94%E6%A1%88/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E9%A2%86%E5%AF%BC%E5%8A%9B/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%BB%88%E7%AB%AF/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E8%80%81%E5%B8%88/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E8%87%AA%E7%BB%84%E7%BB%87/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%A4%BE%E7%BE%A4/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E6%A3%80%E9%AA%8C/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E7%90%86%E8%AE%BA/</loc>
-    <lastmod>2024-09-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://oneview.me/tags/%E6%90%9C%E7%B4%A2/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E7%90%86%E8%AE%BA%E4%B9%8B%E9%92%9F/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E9%AB%98%E8%AE%A4%E7%9F%A5/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E8%AE%A4%E7%9F%A5/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E5%87%86%E7%A1%AE%E6%80%A7/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E6%8A%96%E9%9F%B3/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E4%B8%80%E8%88%AC%E6%80%A7/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%9B%B4%E6%92%AD/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%AE%80%E6%B4%81%E6%80%A7/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E6%A1%86%E6%9E%B6/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%AD%94%E6%A1%88/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E9%A2%86%E5%AF%BC%E5%8A%9B/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%BB%88%E7%AB%AF/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E8%80%81%E5%B8%88/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E8%87%AA%E7%BB%84%E7%BB%87/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%A4%BE%E7%BE%A4/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E6%A3%80%E9%AA%8C/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E7%90%86%E8%AE%BA/</loc>
+    <lastmod>2024-11-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://oneview.me/tags/%E6%90%9C%E7%B4%A2/</loc>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E6%80%9D%E8%80%83%E7%9A%84%E6%9C%AC%E8%B4%A8/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E5%AD%98%E5%9C%A8%E5%8D%B3%E5%90%88%E7%90%86/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E7%8B%AC%E7%AB%8B%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E6%B7%B1%E5%BA%A6%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E5%AE%87%E5%AE%99%E6%9C%AC%E6%BA%90/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E4%BA%BA%E7%B1%BB%E6%96%87%E6%98%8E/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E8%87%AA%E6%88%91%E8%AE%A4%E7%9F%A5/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E7%94%9F%E5%91%BD%E6%84%8F%E4%B9%89/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E5%86%85%E5%BF%83%E5%B9%B3%E9%9D%99/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E5%93%B2%E5%AD%A6%E6%80%9D%E8%80%83/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E5%93%B2%E5%AD%A6/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E7%9F%A5%E8%A1%8C%E5%90%88%E4%B8%80/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://oneview.me/tags/%E4%BA%BA%E7%94%9F%E6%97%85%E7%A8%8B/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -348,15 +771,15 @@
 
   
   <url>
-    <loc>https://oneview.me/categories/Models/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <loc>https://oneview.me/categories/%E6%97%B6%E5%85%89%E9%9B%86/</loc>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://oneview.me/categories/%E6%97%B6%E5%85%89%E9%9B%86/</loc>
-    <lastmod>2024-09-18</lastmod>
+    <loc>https://oneview.me/categories/Models/</loc>
+    <lastmod>2024-11-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
